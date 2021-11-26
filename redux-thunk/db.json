@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "Mansur Dewan",
+      "email": "add",
+      "username": "add",
+      "password": "",
+      "mobile": "",
+      "description": "",
+      "id": 2
+    },
+    {
+      "name": "Mansur Dewan",
+      "email": "add",
+      "username": "add",
+      "password": "",
+      "mobile": "",
+      "description": "",
+      "id": 3
+    },
+    {
+      "name": "khirpai",
+      "email": "ghatal",
+      "username": "something",
+      "password": "nothing",
+      "mobile": "that's ",
+      "description": "all",
+      "id": 4
+    },
+    {
+      "name": "khirpai",
+      "email": "ghatal",
+      "username": "something",
+      "password": "nothing",
+      "mobile": "that's ",
+      "description": "all",
+      "id": 5
+    },
+    {
+      "name": "khirpai",
+      "email": "ghatal",
+      "username": "something",
+      "password": "nothing",
+      "mobile": "that's ",
+      "description": "all",
+      "id": 6
+    },
+    {
+      "name": "khirpai",
+      "email": "ghatal",
+      "username": "something",
+      "password": "nothing",
+      "mobile": "that's ",
+      "description": "all",
+      "id": 7
+    },
+    {
+      "name": "khirpai",
+      "email": "ghatal",
+      "username": "something",
+      "password": "nothing",
+      "mobile": "that's ",
+      "description": "all",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "username": "",
+      "password": "",
+      "mobile": "",
+      "description": "",
+      "id": 9
+    },
+    {
+      "name": "mansur",
+      "email": "mansur",
+      "username": "mansur",
+      "password": "mansur",
+      "mobile": "mansur",
+      "description": "mansur",
+      "id": 10
+    }
+  ]
+}
